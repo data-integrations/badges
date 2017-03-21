@@ -15,7 +15,7 @@ Collection of Badges
 ### Markdown
 
 ```
- [![Cask Marketplace](cdap-users.herokuapp.com/assets/cm-available.svg)](http://docs.cask.co/cdap) 
+ [![Cask Marketplace Availability](cdap-users.herokuapp.com/assets/cm-available.svg)](http://docs.cask.co/cdap) 
 ```
 
 ## Cask Marketplace Not-Availability
@@ -31,5 +31,5 @@ Collection of Badges
 ### Markdown
 
 ```
- [![Cask Marketplace](cdap-users.herokuapp.com/assets/cm-notavailable.svg)](http://docs.cask.co/cdap) 
+ [![Cask Marketplace Not Availability](cdap-users.herokuapp.com/assets/cm-notavailable.svg)](http://docs.cask.co/cdap) 
 ```
