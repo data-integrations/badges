@@ -178,3 +178,18 @@ Collection of Badges that you can use.
 [![CDAP Batch Sink](cdap-users.herokuapp.com/assets/cdap-batch-sink.svg)](http://docs.cask.co/cdap) 
 ```
 
+## CDAP Action
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-action.svg"/>
+
+### Image
+
+```
+<img src="https://cdap-users.herokuapp.com/assets/cdap-action.svg"/>
+```
+
+### Markdown
+
+```
+[![CDAP Action](cdap-users.herokuapp.com/assets/cdap-action.svg)](http://docs.cask.co/cdap) 
+```
