@@ -63,6 +63,38 @@ Collection of Badges that you can use.
 ### Markdown
 
 ```
- [![CDAP Transform](cdap-users.herokuapp.com/assets/cdap-sparkcompute.svg)](http://docs.cask.co/cdap) 
+ [![CDAP Spark Compute](cdap-users.herokuapp.com/assets/cdap-sparkcompute.svg)](http://docs.cask.co/cdap) 
+```
+
+## CDAP Realtime Source
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-realtime-source.svg"/>
+
+### Image
+
+```
+  <img src="https://cdap-users.herokuapp.com/assets/cdap-realtime-source.svg"/>
+```
+
+### Markdown
+
+```
+ [![CDAP Realtime Source](cdap-users.herokuapp.com/assets/cdap-realtime-source.svg)](http://docs.cask.co/cdap) 
+```
+
+## CDAP Realtime Sink
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-realtime-sink.svg"/>
+
+### Image
+
+```
+  <img src="https://cdap-users.herokuapp.com/assets/cdap-realtime-sink.svg"/>
+```
+
+### Markdown
+
+```
+ [![CDAP Realtime Sink](cdap-users.herokuapp.com/assets/cdap-realtime-sink.svg)](http://docs.cask.co/cdap) 
 ```
 
