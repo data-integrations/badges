@@ -1,5 +1,7 @@
 # Cask Data Application Platform (CDAP) Badges
 
+<a href="https://cdap-users.herokuapp.com/"><img alt="Join CDAP community" src="https://cdap-users.herokuapp.com/badge.svg?t=2"/> [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Collection of Badges that you can use. 
 
 ## Cask Marketplace Availability
