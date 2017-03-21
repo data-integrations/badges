@@ -1,6 +1,6 @@
-# Badges
+# Cask Data Application Platform (CDAP) Badges
 
-Collection of Badges
+Collection of Badges that you can use. 
 
 ## Cask Marketplace Availability
 
@@ -32,4 +32,20 @@ Collection of Badges
 
 ```
  [![Cask Marketplace Not Availability](cdap-users.herokuapp.com/assets/cm-notavailable.svg)](http://docs.cask.co/cdap) 
+```
+
+## CDAP Transform
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-transform.svg"/>
+
+### Image
+
+```
+  <img src="https://cdap-users.herokuapp.com/assets/cdap-transform.svg"/>
+```
+
+### Markdown
+
+```
+ [![CDAP Transform](cdap-users.herokuapp.com/assets/cdap-transform.svg)](http://docs.cask.co/cdap) 
 ```
