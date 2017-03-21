@@ -49,3 +49,20 @@ Collection of Badges that you can use.
 ```
  [![CDAP Transform](cdap-users.herokuapp.com/assets/cdap-transform.svg)](http://docs.cask.co/cdap) 
 ```
+
+## CDAP Spark Compute
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-sparkcompute.svg"/>
+
+### Image
+
+```
+  <img src="https://cdap-users.herokuapp.com/assets/cdap-sparkcompute.svg"/>
+```
+
+### Markdown
+
+```
+ [![CDAP Transform](cdap-users.herokuapp.com/assets/cdap-sparkcompute.svg)](http://docs.cask.co/cdap) 
+```
+
