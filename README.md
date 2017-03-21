@@ -9,13 +9,13 @@ Collection of Badges that you can use.
 ### Image
 
 ```
-  <img src="https://cdap-users.herokuapp.com/assets/cm-available.svg"/>
+<img src="https://cdap-users.herokuapp.com/assets/cm-available.svg"/>
 ```
 
 ### Markdown
 
 ```
- [![Cask Marketplace Availability](cdap-users.herokuapp.com/assets/cm-available.svg)](http://docs.cask.co/cdap) 
+[![Cask Marketplace Availability](cdap-users.herokuapp.com/assets/cm-available.svg)](http://docs.cask.co/cdap) 
 ```
 
 ## Cask Marketplace Not-Availability
@@ -25,13 +25,13 @@ Collection of Badges that you can use.
 ### Image
 
 ```
-  <img src="https://cdap-users.herokuapp.com/assets/cm-notavailable.svg"/>
+<img src="https://cdap-users.herokuapp.com/assets/cm-notavailable.svg"/>
 ```
 
 ### Markdown
 
 ```
- [![Cask Marketplace Not Availability](cdap-users.herokuapp.com/assets/cm-notavailable.svg)](http://docs.cask.co/cdap) 
+[![Cask Marketplace Not Availability](cdap-users.herokuapp.com/assets/cm-notavailable.svg)](http://docs.cask.co/cdap) 
 ```
 
 ## CDAP Transform
@@ -41,13 +41,13 @@ Collection of Badges that you can use.
 ### Image
 
 ```
-  <img src="https://cdap-users.herokuapp.com/assets/cdap-transform.svg"/>
+<img src="https://cdap-users.herokuapp.com/assets/cdap-transform.svg"/>
 ```
 
 ### Markdown
 
 ```
- [![CDAP Transform](cdap-users.herokuapp.com/assets/cdap-transform.svg)](http://docs.cask.co/cdap) 
+[![CDAP Transform](cdap-users.herokuapp.com/assets/cdap-transform.svg)](http://docs.cask.co/cdap) 
 ```
 
 ## CDAP Spark Compute
@@ -57,13 +57,13 @@ Collection of Badges that you can use.
 ### Image
 
 ```
-  <img src="https://cdap-users.herokuapp.com/assets/cdap-sparkcompute.svg"/>
+<img src="https://cdap-users.herokuapp.com/assets/cdap-sparkcompute.svg"/>
 ```
 
 ### Markdown
 
 ```
- [![CDAP Spark Compute](cdap-users.herokuapp.com/assets/cdap-sparkcompute.svg)](http://docs.cask.co/cdap) 
+[![CDAP Spark Compute](cdap-users.herokuapp.com/assets/cdap-sparkcompute.svg)](http://docs.cask.co/cdap) 
 ```
 
 ## CDAP Realtime Source
@@ -73,13 +73,13 @@ Collection of Badges that you can use.
 ### Image
 
 ```
-  <img src="https://cdap-users.herokuapp.com/assets/cdap-realtime-source.svg"/>
+<img src="https://cdap-users.herokuapp.com/assets/cdap-realtime-source.svg"/>
 ```
 
 ### Markdown
 
 ```
- [![CDAP Realtime Source](cdap-users.herokuapp.com/assets/cdap-realtime-source.svg)](http://docs.cask.co/cdap) 
+[![CDAP Realtime Source](cdap-users.herokuapp.com/assets/cdap-realtime-source.svg)](http://docs.cask.co/cdap) 
 ```
 
 ## CDAP Realtime Sink
@@ -89,12 +89,44 @@ Collection of Badges that you can use.
 ### Image
 
 ```
-  <img src="https://cdap-users.herokuapp.com/assets/cdap-realtime-sink.svg"/>
+<img src="https://cdap-users.herokuapp.com/assets/cdap-realtime-sink.svg"/>
 ```
 
 ### Markdown
 
 ```
- [![CDAP Realtime Sink](cdap-users.herokuapp.com/assets/cdap-realtime-sink.svg)](http://docs.cask.co/cdap) 
+[![CDAP Realtime Sink](cdap-users.herokuapp.com/assets/cdap-realtime-sink.svg)](http://docs.cask.co/cdap) 
+```
+
+## CDAP Pipeline
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-pipeline.svg"/>
+
+### Image
+
+```
+<img src="https://cdap-users.herokuapp.com/assets/cdap-pipeline.svg"/>
+```
+
+### Markdown
+
+```
+[![CDAP Pipeline](cdap-users.herokuapp.com/assets/cdap-pipeline.svg)](http://docs.cask.co/cdap) 
+```
+
+## CDAP Notification
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-notification.svg"/>
+
+### Image
+
+```
+<img src="https://cdap-users.herokuapp.com/assets/cdap-notification.svg"/>
+```
+
+### Markdown
+
+```
+[![CDAP Notification](cdap-users.herokuapp.com/assets/cdap-notification.svg)](http://docs.cask.co/cdap) 
 ```
 
