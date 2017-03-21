@@ -3,6 +3,7 @@
 Collection of Badges
 
 ## Cask Marketplace Availability
+
 <img src="https://cdap-users.herokuapp.com/assets/cm-available.svg"/>
 
 ### Image
@@ -18,6 +19,7 @@ Collection of Badges
 ```
 
 ## Cask Marketplace Not-Availability
+
 <img src="https://cdap-users.herokuapp.com/assets/cm-notavailable.svg"/>
 
 ### Image
