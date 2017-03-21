@@ -130,3 +130,51 @@ Collection of Badges that you can use.
 [![CDAP Notification](cdap-users.herokuapp.com/assets/cdap-notification.svg)](http://docs.cask.co/cdap) 
 ```
 
+## CDAP Error Handler
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-errorhandler.svg"/>
+
+### Image
+
+```
+<img src="https://cdap-users.herokuapp.com/assets/cdap-errorhandler.svg"/>
+```
+
+### Markdown
+
+```
+[![CDAP Error Handler](cdap-users.herokuapp.com/assets/cdap-errorhandler.svg)](http://docs.cask.co/cdap) 
+```
+
+## CDAP Batch Source
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-batch-source.svg"/>
+
+### Image
+
+```
+<img src="https://cdap-users.herokuapp.com/assets/cdap-batch-source.svg"/>
+```
+
+### Markdown
+
+```
+[![CDAP Batch Source](cdap-users.herokuapp.com/assets/cdap-batch-source.svg)](http://docs.cask.co/cdap) 
+```
+
+## CDAP Batch Sink
+
+<img src="https://cdap-users.herokuapp.com/assets/cdap-batch-sink.svg"/>
+
+### Image
+
+```
+<img src="https://cdap-users.herokuapp.com/assets/cdap-batch-sink.svg"/>
+```
+
+### Markdown
+
+```
+[![CDAP Batch Sink](cdap-users.herokuapp.com/assets/cdap-batch-sink.svg)](http://docs.cask.co/cdap) 
+```
+
