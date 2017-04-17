@@ -1,6 +1,6 @@
 # Cask Data Application Platform (CDAP) Badges
 
-[![Join CDAP community](https://cdap-users.herokuapp.com/badge.svg?t=wrangler)](https://cdap-users.herokuapp.com)
+[![Join the CDAP community](https://cdap-users.herokuapp.com/badge.svg?t=wrangler)](https://cdap-users.herokuapp.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Collection of Badges that you can use.
@@ -10,6 +10,7 @@ Collection of Badges that you can use.
 - [CDAP Batch Source](#cdap-batch-source)
 - [CDAP Error Handler](#cdap-error-handler)
 - [Cask Marketplace Availability](#cask-marketplace-availability)
+- [Cask Marketplace Not-Available](#cask-marketplace-not-available)
 - [CDAP Notification](#cdap-notification)
 - [CDAP Pipeline](#cdap-pipeline)
 - [CDAP Realtime Sink](#cdap-realtime-sink)
